@@ -36,7 +36,7 @@
 <a href="https://github.com/heyit-tylor/Xploader-V1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/heyit-tylor/Xploader-V1?label=Watching&style=social"></a>
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{heyit-tylor}/count.svg" alt="Xploader-V1:: Visitor's Count" /></p>
----
+--------------------------------
 
 
 
@@ -78,8 +78,17 @@
 
 <h3>XPLOADER V1 STATS</h3>
 
-![Xploader Stats](https://github-readme-stats.vercel.app/api/pin/?username=heyit-tylor&repo=Xploader-V1&show_owner=true&theme=dark)
-
+<p align="center">
+<a href="https://github.com/heyit-tylor/Xploader-V1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/heyit-tylor/Xploader-V1?color=blue&style=flat-square"></a>
+<a href="https://github.com/heyit-tylor/Xploader-V1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/heyit-tylor/Xploader-V1?color=red&style=flat-square"></a>
+<a href="https://github.com/heyit-tylor/Xploader-V1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/heyit-tylor/Xploader-V1?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/heyit-tylor/Xploader-V1"><img title="Open Source" src="https://img.shields.io/badge/Author-Tylor.-red?v=103"></a>
+<a href="https://github.com/heyit-tylor/Xploader-V1/"><img title="Size" src="https://img.shields.io/github/repo-size/heyit-tylor/Xploader-V1?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheyit-tylor%2FXploader-V1&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/heyit-tylor/Xploader-V1/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+</p>
+<p align='center'>
+</p>
 
     
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>

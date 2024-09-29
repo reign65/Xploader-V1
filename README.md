@@ -8,15 +8,15 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-[![Future Trends](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hey+there+buddy%F0%9F%91%8B!;Meet+Godzilla+MD+WhatsApp+Bot;A+WhatsApp+bot+rich+in+features;Made+for+you,+by+humans+on+earth;Developed+by+Tylor+and+Paschal;Fork+the+repo+and+don't+forget+to+star+it;Success+in+deploying+Godzilla+MD;Thanks+from+ItsFutureTrends+team😊)](https://github.com/ItsFutureTrends)
+[![Tylor](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hey+there+buddy%F0%9F%91%8B!;Meet+Xploader+V1+WhatsApp+Bot;A+WhatsApp+bot+rich+in+features;Made+perfectly+just+for+you,;Developed+by+Tylor;Fork+the+repo+and+don't+forget+to+star+it;Success+in+deploying+Xploader+Bot;Enjoy😊)](https://github.com/heyit-tylor)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-  <a href="https://github.com/ItsFutureTrends/Godzilla-MD">
-    <img alt="godzilla docs" height="500" src="https://telegra.ph/file/71c8e0d16cee3425e0ee5.jpg">
+  <a href="https://github.com/heyit-tylor/Xploader-V1">
+    <img alt="xploader docs" height="500" src="https://telegra.ph/file/71c8e0d16cee3425e0ee5.jpg">
   </a>
 </p>
     
@@ -25,21 +25,21 @@
    
    
 <p align="center">
-  <a href="https://wa.me/+2348152012066?text=Hi+Bro+Please+Help.+I+got+this+from+Godzilla-MD+Repo" target="_blank">
+  <a href="https://wa.me/+254796180105?text=Hi+Xploader+Developer+Please+Help.+I+got+this+from+Xploader+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
-  <a aria-label="Godzilla MD is here for you" href="https://github.com/ItsFutureTrends/Godzilla-MD" target="_blank">
-    <img alt="ItsFutureTrends" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="Xploader Bot is here for you" href="https://github.com/ItsFutureTrends/Godzilla-MD" target="_blank">
+    <img alt="heyit-tylor" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{ItsFutureTrends}/count.svg" alt="Godzilla-MD:: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{heyit-tylor}/count.svg" alt="Xploader-V1:: Visitor's Count" /></p>
 ---
 
 
 
 
-<p align="center"> 𝐆𝐨𝐝𝐳𝐢𝐥𝐥𝐚 𝐌𝐃 uses
+<p align="center"> 𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫 𝐁𝐨𝐭 uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -49,7 +49,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/ItsFutureTrends/Godzilla-MD"><b>Godzilla MD</b></a> Can be deployed on;...
+  <a href="https://github.com/heyit-tylor/Xploader-V1"><b>Godzilla MD</b></a> Can be deployed on;...
 </p>
 
 <p align="center">

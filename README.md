@@ -28,7 +28,7 @@
   <a href="https://wa.me/+254796180105?text=Hi+Xploader+Developer+Please+Help.+I+got+this+from+Xploader+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
-  <a aria-label="Xploader Bot is here for you" href="https://github.com/ItsFutureTrends/Godzilla-MD" target="_blank">
+  <a aria-label="Xploader Bot is here for you" href="https://github.com/heyit-tylor/Xploader-V1" target="_blank">
     <img alt="heyit-tylor" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 

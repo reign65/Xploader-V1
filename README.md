@@ -62,17 +62,10 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## Bot Games
+## NB:
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ---
-1. ***Connect Four Game.***
-2.  ***Tic Tac Toe.***
-3.  ***Number Guessing Game.***
-4.  ***Word chain Game(wcg).***
-5.  ***Hidden Card Game.***
-6.  ***Rolling Dice.***
-7.  ***Character Guessing Game.***
-8.  ***Capital of City Finding.***
+***This bot is still under development and my exhibit some errors. Please feel free to report any error to the developers or request a features.\n Stay tuned for Xploader V2 which will more optimized and fully functioning***
 ##
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>

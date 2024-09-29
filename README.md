@@ -53,11 +53,10 @@
 </p>
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2heyit-tylor%2FXploader-V1"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
-  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/ItsFutureTrends/Godzilla-MD-md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=2347066575685,254787371970&env[MONGODB_URI]&&env[OWNER_NAME]=FutureTrends ᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=𝐆𝐎𝐃𝐙𝐈𝐋𝐋𝐀 𝐌𝐃&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=GODZILLA &env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Nairobi&name=ItsFutureTrends &env[KOYEB_NAME]=Godzilla-MD&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/71c8e0d16cee3425e0ee5.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
 </p>
   <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
-<p align="center">Need help? please create an <a href="https://github.com/ItsFutureTrends/Godzilla-MD/issues">issue</a></p>
+<p align="center">Need help? please create an <a href="https://github.com/heyit-tylor/Xploader-V1/issues">issue</a></p>
 
  
 
@@ -84,9 +83,9 @@
 
 
 
-<h3>Godzilla MD Stats</h3>
+<h3>XPLOADER V1 STATS</h3>
 
-![Godzilla MD Stats](https://github-readme-stats.vercel.app/api/pin/?username=ItsFutureTrends&repo=Godzilla-MD&show_owner=true&theme=dark)
+![Xploader Stats](https://github-readme-stats.vercel.app/api/pin/?username=ItsFutureTrends&repo=Godzilla-MD&show_owner=true&theme=dark)
 
 
     
@@ -103,11 +102,7 @@ If scan qr method is not working please, try using pairing code as we try to fix
 <a href="https://session.bk9.site/BK9pair"><img title="𝙋𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 2" src="https://img.shields.io/badge/𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 2-h?color=green&style=for-the-badge&logo=msi"></a>
 `it is currently powerful working`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
-3.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional`***
-4.  ***Click [`FORK`](https://github.com/ItsFutureTrends/Godzilla-MD/fork) and `Star ⭐ Repository` for Courage.***
-5.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
-6.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
-7.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FItsFutureTrends%2FGodzilla-MD)***
+3.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fheyit-tylor%2FXploader-V1)***
 8.  ***Deploy on [`Replit`](https://replit.com/github/ItsFutureTrends/Godzilla-MD)***
 9.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
 10.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/ItsFutureTrends/Godzilla-MD-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=254787371970,2347066575685env[MONGODB_URI]&&env[OWNER_NAME]=FutureTrends&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Godzilla+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=GODZILLA&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Nairobi&name=Venocyber-md&env[KOYEB_NAME]=Godzilla-MD&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/71c8e0d16cee3425e0ee5.jpg)***

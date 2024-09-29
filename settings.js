@@ -9,11 +9,6 @@
 // @whatsapp : +254796180105
 //*
 //*
-//base script by DGXeon
-//Instagram: unicorn_xeon13
-//Telegram: t.me/ahmmitech
-//GitHub: @salmanytofficial
-//WhatsApp: +923184070915
 
 const fs = require('fs')
 const chalk = require('chalk')

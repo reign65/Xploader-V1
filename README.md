@@ -34,7 +34,6 @@
 <a href="https://github.com/heyit-tylor/Xploader-V1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/heyit-tylor/Xploader-V1?&style=social"></a>
 <a href="https://github.com/heyit-tylor/Xploader-V1/network/members"><img title="Fork" src="https://img.shields.io/github/forks/heyit-tylor/Xploader-V1?style=social"></a>
 <a href="https://github.com/heyit-tylor/Xploader-V1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/heyit-tylor/Xploader-V1?label=Watching&style=social"></a>
-<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fheyit-tylor%2FXploader-V1?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fheyit-tylor%2FXploader-V1.svg?type=shield"/></a>
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{heyit-tylor}/count.svg" alt="Xploader-V1:: Visitor's Count" /></p>
 ---

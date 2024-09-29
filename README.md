@@ -27,14 +27,14 @@
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Guru322"><img title="Author" src="https://img.shields.io/badge/GURU-BOT-black?style=for-the-badge&logo=telegram"></a>
+<a href="https://github.com/heyit-tylor"><img title="Author" src="https://img.shields.io/badge/XPLOADER-BOT-black?style=for-the-badge&logo=telegram"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Guru322?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Guru322?label=Followers&style=social"></a>
-<a href="https://github.com/Guru322/GURU-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Guru322/GURU-BOT?&style=social"></a>
-<a href="https://github.com/Guru322/GURU-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Guru322/GURU-BOT?style=social"></a>
-<a href="https://github.com/Guru322/GURU-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Guru322/GURU-BOT?label=Watching&style=social"></a>
-<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FGuru322%2FGURU-BOT?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FGuru322%2FGURU-BOT.svg?type=shield"/></a>
+<a href="https://github.com/heyit-tylor?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/heyit-tylor?label=Followers&style=social"></a>
+<a href="https://github.com/heyit-tylor/Xploader-V1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/heyit-tylor/Xploader-V1?&style=social"></a>
+<a href="https://github.com/heyit-tylor/Xploader-V1/network/members"><img title="Fork" src="https://img.shields.io/github/forks/heyit-tylor/Xploader-V1?style=social"></a>
+<a href="https://github.com/heyit-tylor/Xploader-V1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/heyit-tylor/Xploader-V1?label=Watching&style=social"></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fheyit-tylor%2FXploader-V1?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fheyit-tylor%2FXploader-V1.svg?type=shield"/></a>
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{heyit-tylor}/count.svg" alt="Xploader-V1:: Visitor's Count" /></p>
 ---

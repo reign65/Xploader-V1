@@ -85,7 +85,7 @@
 
 <h3>XPLOADER V1 STATS</h3>
 
-![Xploader Stats](https://github-readme-stats.vercel.app/api/pin/?username=ItsFutureTrends&repo=Godzilla-MD&show_owner=true&theme=dark)
+![Xploader Stats](https://github-readme-stats.vercel.app/api/pin/?username=heyit-tylor&repo=Xploader-V1&show_owner=true&theme=dark)
 
 
     
@@ -103,9 +103,7 @@ If scan qr method is not working please, try using pairing code as we try to fix
 `it is currently powerful working`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
 3.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fheyit-tylor%2FXploader-V1)***
-8.  ***Deploy on [`Replit`](https://replit.com/github/ItsFutureTrends/Godzilla-MD)***
-9.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
-10.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/ItsFutureTrends/Godzilla-MD-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=254787371970,2347066575685env[MONGODB_URI]&&env[OWNER_NAME]=FutureTrends&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Godzilla+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=GODZILLA&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Nairobi&name=Venocyber-md&env[KOYEB_NAME]=Godzilla-MD&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/71c8e0d16cee3425e0ee5.jpg)***
+4.  ***Deploy on any panel of your choice***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ##
 ---
@@ -113,17 +111,12 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 
 
-- Star ⭐ this repo if you like Godzilla MD.
+- Star ⭐ this repo if you like Xploader Bot.
 - If any problem, then [`Whatsapp Me Here`](https://wa.me/message/OZTNJWQSS2LAM1)
 
 
 ### This is
-- [Future Trends](https://github.com/ItsFutureTrends) 
-
-# please click the following button  and  fill the details to support my project
-
-
-<a href="https://www.buymeacoffee.com/godzilla"><img src="https://img.buymeacoffee.com/button-api/?text=Support this project&emoji=&slug=godzilla &button_colour=5F7FFF&font_colour=ffffff&font_family=Arial&outline_colour=000000&coffee_colour=FFDD00" /></a>
+- [Tylor](https://github.com/heyit-tylor) 
 
 --
 
@@ -132,9 +125,9 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 </h2>
    
 ## 
-- *Godzilla MD is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
-- *In that case, I'm not responsible for banning your account.*
-- *Use Godzilla MD at your own risk by keeping this warning in mind.*
+- *Xploader Bot is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *In that case, we're not responsible for banning your account.*
+- *Use Xploader bot at your own risk by keeping this warning in mind.*
 - [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/ItsFutureTrends/Godzilla-MD)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>

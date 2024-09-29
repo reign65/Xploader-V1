@@ -8,7 +8,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-[![Tylor](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hey+there+buddy%F0%9F%91%8B!;Meet+Xploader+V1+WhatsApp+Bot;A+WhatsApp+bot+rich+in+features;Made+perfectly+just+for+you,;Developed+by+Tylor;Fork+the+repo+and+don't+forget+to+star+it;Success+in+deploying+Xploader+Bot;Enjoy😊)](https://github.com/heyit-tylor)
+[![Tylor](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=d1fa02&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hey+there+buddy%F0%9F%91%8B!;Meet+Xploader+V1+WhatsApp+Bot;A+WhatsApp+bot+rich+in+features;Made+perfectly+just+for+you,;Developed+by+Tylor;Fork+the+repo+and+don't+forget+to+star+it;Success+in+deploying+Xploader+Bot;Enjoy😊)](https://github.com/heyit-tylor)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -145,7 +145,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-[![Tylor](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Thank+you%F0%9F%91%8B!;For+using+Xploader+Bot;🙏;🙏+😊;🥰)](https://github.com/heyit-tylor)
+[![Tylor](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=d1fa02&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Thank+you%F0%9F%91%8B!;For+using+Xploader+Bot;🙏;🙏+😊;🥰)](https://github.com/heyit-tylor)
 
  ## [ XPLOADER WHATSAPP CHANNEL ](https://whatsapp.com/channel/0029VaaxfYH2ER6oOMkqFS3W)
 
@@ -156,7 +156,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-[![Future Trends](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hey+buddy%F0%9F%91%8B!;just+wishing+you;goodluck+in+deploying+Xploader+V1;Developed+by+Tylor)](https://github.com/heyit-tylor)
+[![Future Trends](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=d1fa02&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hey+buddy%F0%9F%91%8B!;just+wishing+you;goodluck+in+deploying+Xploader+V1;Developed+by+Tylor)](https://github.com/heyit-tylor)
 
 <p align="center">
   <a href="https://github.com/heyit-tylor/Xploader-V1">

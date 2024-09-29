@@ -126,8 +126,8 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 ##
 ---
 ### Credits to:
-`much thanks to`
-- [Giddy Tennor](https://github.com/giddytennor) for the unending support.
+`Special thanks to`
+- [Giddy Tennor](https://github.com/Tennormodzcoder) for the unending support.
 ---
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>

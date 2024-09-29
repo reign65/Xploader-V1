@@ -16,7 +16,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
   <a href="https://github.com/heyit-tylor/Xploader-V1">
-    <img alt="xploader docs" height="500" src="https://telegra.ph/file/71c8e0d16cee3425e0ee5.jpg">
+    <img alt="xploader docs" height="500" src="https://ibb.co/NL0WTLd">
   </a>
 </p>
     
@@ -49,16 +49,10 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/heyit-tylor/Xploader-V1"><b>Godzilla MD</b></a> Can be deployed on;...
-</p>
-
-<p align="center">
-  <a href="https://github.com/ItsFutureTrends/Godzilla-MD/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
-  <a href="https://railway.app/template/GZOvIe?referralCode=wVDLrh"><img src="https://img.shields.io/badge/railway-3e164f?style=for-the-badge&logo=railway&logoColor=0B0D0E"></a>
+  <a href="https://github.com/heyit-tylor/Xploader-V1"><b>This bot</b></a> Can be deployed on;...
 </p>
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FItsFutureTrends%2FGodzilla-MD"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
-  <a href="https://godzilla-web01.vercel.app/replit.html"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
+  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2heyit-tylor%2FXploader-V1"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/ItsFutureTrends/Godzilla-MD-md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=2347066575685,254787371970&env[MONGODB_URI]&&env[OWNER_NAME]=FutureTrends ᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=𝐆𝐎𝐃𝐙𝐈𝐋𝐋𝐀 𝐌𝐃&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=GODZILLA &env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Nairobi&name=ItsFutureTrends &env[KOYEB_NAME]=Godzilla-MD&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/71c8e0d16cee3425e0ee5.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
 </p>
   <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>

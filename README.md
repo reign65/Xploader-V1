@@ -65,7 +65,7 @@
 ## NB:
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ---
-***This bot is still under development and my exhibit some errors. Please feel free to report any error to the developers or request a features.\n Stay tuned for Xploader V2 which will more optimized and fully functioning***
+***This bot is still under development and my exhibit some errors. Please feel free to report any error to the developers or request a features. Stay tuned for Xploader V2 which will more optimized and fully functional***
 ##
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>

@@ -49,12 +49,10 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/heyit-tylor/Xploader-V1"><b>This bot</b></a> Can be deployed on;...
+  <a href="https://github.com/heyit-tylor/Xploader-V1"><b>Xploader V1</b></a> Can be deployed on;
 </p>
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2heyit-tylor%2FXploader-V1"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
-</p>
-  <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
 <p align="center">Need help? please create an <a href="https://github.com/heyit-tylor/Xploader-V1/issues">issue</a></p>
 

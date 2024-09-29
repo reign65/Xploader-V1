@@ -136,58 +136,29 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 ---
 ### Credits to:
 `much thanks to`
-- [Suhail Ser](https://github.com/SuhailTechInfo) for the Base Bot
-- [`Astropeda Team`](https://github.com/Astropeda) for new menu design and some cmds
-- [wasixd](https://github.com/Itxxwasi) for watching and rechecks
-- [Gifted tech](https://github.com/mouricedevs) always supporter
-- .[Venocyber Tech](https://github.com/kingjux)
-for supporting us
+- [Giddy Tennor](https://github.com/giddytennor) for the unending support.
 ---
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-[ʜᴏᴡ ᴛᴏ sᴇᴛᴜᴘ `𝐆𝐨𝐝𝐳𝐢𝐥𝐥𝐚 𝐌𝐃` 𝑓𝑟𝑒𝑒 𝑡𝑢𝑡𝑜𝑟𝑖𝑎𝑙 `𝚌𝚕𝚒𝚌𝚔 𝚑𝚎𝚛𝚎`](https://youtu.be/1wNVPsZ98Mo?si=jZSXgdBRyA00kjKl)
- 
-  ##
-  
-  * [`𝐝𝐨𝐧'𝐭 𝐞𝐯𝐞𝐧 𝐡𝐚𝐯𝐞 𝐠𝐢𝐭𝐡𝐮𝐛 𝐚𝐜𝐜𝐨𝐮𝐧𝐭` How To setup Github 1st step `𝒄𝒍𝒊𝒄𝒌 𝒉𝒆𝒓𝒆`](https://youtu.be/19v5VCx5fDk?si=l9GzHaJg8Vedj5ld)
-  
- * Deploy on Heroku Video ⇓
- <p align="left">
-<a href="https://youtu.be/1wNVPsZ98Mo?si=ftQ2cg82U0cz-mbC"><img align="center" src="https://telegra.ph/file/71c8e0d16cee3425e0ee5.jpg" alt="DEPLOY" height="200" width="200" /></a>
-   
-* don't have heroku account? ᴄʀᴇᴀᴛᴇ ʜᴇʀᴏᴋᴜ ᴀᴄᴄᴏᴜɴᴛ Video ⇓
- <p align="left">
-<a href="https://youtu.be/ZcvbJNg3tHU?si=zDml6TGO1dAmYAX8"><img align="center" src="https://telegra.ph/file/71c8e0d16cee3425e0ee5.jpg" alt="ᴄʀᴇᴀᴛᴇ" height="200" width="200" /></a>
-   
-* ☆ ᴇxᴛʀᴀ ᴛᴇᴄʜ ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴀɴᴅ ᴇɴᴊᴏʏ ☆ ᴠɪsɪᴛ ʜᴇʀᴇ ⇓
-<p align="left">
-<a href="https://youtu.be/FshoHx1Vk7U?si=bykHPB3juze4hIrg"><img align="center" src="https://telegra.ph/file/71c8e0d16cee3425e0ee5.jpg" alt="DEPLOY" height="200" width="200" /></a>
-   
-[![Future Trends](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Thank+you%F0%9F%91%8B!;For+using+Godzilla+Md;🙏;🙏+😊;🥰)](https://github.com/ItsFutureTrends)
+[![Tylor](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Thank+you%F0%9F%91%8B!;For+using+Xploader+Bot;🙏;🙏+😊;🥰)](https://github.com/heyit-tylor)
 
-<h1>💗</h1> 
-<b>Thanks For</b> -
-
- [venocyber 💖](https://wa.me/message/MSSH2UWWOQBDL1) for Voice ,[cecilia](https://youtu.be/1wNVPsZ98Mo?si=jZSXgdBRyA00kjKl) , [he.is.me](http://github.com/Venocybertech) , [Itxxwasi](https://wa.me/message/THZ3I25BYZM2E1) , [𝘎𝘪𝘧𝘵𝘦𝘥 𝘵𝘦𝘤𝘩](https://wa.me/message/NHCZC5DSOEUXB1) and [officialchuimsela](https://wa.me/+260769355624) thanks for helps 💖
-
- ## [ GODZILLA WHATSAPP CHANNEL ](https://whatsapp.com/channel/0029VaaxfYH2ER6oOMkqFS3W)
+ ## [ XPLOADER WHATSAPP CHANNEL ](https://whatsapp.com/channel/0029VaaxfYH2ER6oOMkqFS3W)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-©2024
-𝐆𝐎𝐃𝐙𝐈𝐋𝐋𝐀 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓
+©𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐕1𝐁𝐨𝐭
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-[![Future Trends](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hey+buddy%F0%9F%91%8B!;just+wishing+you;goodluck+on+deploying+Godzilla+MD;Developed;by+Future+Trends;Tylor+and+Paschal)](https://github.com/ItsFutureTrends)
+[![Future Trends](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hey+buddy%F0%9F%91%8B!;just+wishing+you;goodluck+in+deploying+Xploader+V1;Developed+by+Tylor)](https://github.com/heyit-tylor)
 
 <p align="center">
-  <a href="https://github.com/ItsFutureTrends/Godzilla-MD">
-    <img alt="godzilla docs" height="300" src="https://telegra.ph/file/71c8e0d16cee3425e0ee5.jpg">
+  <a href="https://github.com/heyit-tylor/Xploader-V1">
+    <img alt="godzilla docs" height="300" src="https://itzpire.com/file/8bcc2e3bfb8c.jpg">
   </a>
 </p>
     

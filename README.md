@@ -1,326 +1,215 @@
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<h1 align="center"> 𝐆𝐎𝐃𝐙𝐈𝐋𝐋𝐀 𝐌𝐃 </h1> 
+<p align="center"> Introducing 𝐆𝐨𝐝𝐳𝐢𝐥𝐥𝐚 𝐌𝐃, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
 
-
-# `XLICON-V3-MD`
-<br>
-<br>
-
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=3F00FF&center=true&width=900&height=100&lines=Its%20XLICON-V3-MD;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20SALMAN%20AHMAD)
-<p align="center">
-  
->XLICON-V3-MD is based on :
->- [Cheems V10](https://github.com/DGXeon) by [DGXeon](https://github.com/DGXeon) (License: Apache License 2.0)
->
-> :unicorn: Don't forget to check out! :point_right: [Cheems V10](https://github.com/DGXeon)
-</p>
-
-## 🌟 `Bot Intro and Features`
-[![XLICON](https://i.ibb.co/sgdGM1P/XLICON-V3.jpg)](https://youtube.com/@s4salmanyt)
-
-<p align="center">
-<a href="https://github.com/salmanytofficial"><img title="Author" src="https://img.shields.io/badge/CREATOR-SALMAN SER-black.svg?style=for-the-badge&logo=github"></a>
-
-### ℹ️ **About XLICON-V3**
-XLICON-V3 is a Cool Multi-Device WhatsApp bot developed by [Salman Ahamed](https://github.com/salmanytofficial). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
-
-<p align="center"><img src="https://profile-counter.glitch.me/{XLICON-V3}/count.svg" alt="SALMAN AHMAD :: Visitor's Count" /></p>
-
-### 📊 **Bot Statistics**
-<p align="center">
-<a href="https://github.com/salmanytofficial/followers"><img title="Followers" src="https://img.shields.io/github/followers/salmanytofficial?color=red&style=flat-square"></a>
-<a href="https://github.com/salmanytofficial/XLICON-V3-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/salmanytofficial/XLICON-V3-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/salmanytofficial/XLICON-V3-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/salmanytofficial/XLICON-V3-MD?color=red&style=flat-square"></a>
-<a href="https://github.com/salmanytofficial/XLICON-V3-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/salmanytofficial/XLICON-V3-MD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/salmanytofficial/XLICON-V3-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-Salman%20Ser.-red?v=103"></a>
-<a href="https://github.com/salmanytofficial/XLICON-V3-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/salmanytofficial/XLICON-V3-MD?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsalmanytofficial%2FXLICON-V3-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/salmanytofficial/XLICON-V3-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
-</p>
-
-  
-####
-
-*XLICON-V3* - A Advanced Multi Device whatsapp bot Based on *CHEEMS V10*
--------
-
-***
-
-## ⭐ `Star This Repo`
-If you find XLICON-V3-MD helpful, consider giving it a star ⭐ to show your appreciation.
-
-Thanks to all contributors! 🚀
-
-## 💲 ```Donate Me```
-
-- [`Buy ME A Coffee ☕ `](https://i.ibb.co/SBXWb1R/donate.jpg)
-
-<p align="left">
-Scan qr code from the above button, u can pay through Buy Me A Coffee...
-</p>
-
-- [`Support Me On Patreon ☕ `](https://www.patreon.com/ahmmikun/membership)
-
-<p align="left">
-Click On The Link To Donate ME...
-</p>
-
-## 🚀 `Bot Features`
-| Feature                          | Description                                             | Available    | Version    |
-| ---------------------------------| ------------------------------------------------------- | ------------ | ---------- |
-| Multi-Device Support             | Operate the bot on multiple devices simultaneously      | ✅           | 3.0        |
-| AI Chat Bot                      | Bot Can Reply To Questions                              | ✅           | 3.0        |
-| Downloader Commands              | Download various types of content from the internet     | ✅           | 3.0        |
-| Hidden NSFW Commands             | Access a range of NSFW commands hidden in the bot       | ✅           | 3.0        |
-| Logo Commands                    | Generate logos using specialized commands               | ✅           | 3.0        |
-| Anime Commands                   | Explore anime-related commands and features             | ✅           | 3.0        |
-| Bot Cantrol Commands             | Cantrol Bot Without Opening Deploy Platform             | ✅           | 3.0        |
-| Various Games                    | Enjoy a variety of games within the bot                 | ✅           | 3.0        |
-| Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 3.0        |
-
-## 🛠️ `Installation Methods`
-1. Fork the repo
-    <br>
-<a href='https://github.com/salmanytofficial/XLICON-V3-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-
-2. Get Creds Json (SERVER 1)
-    <br>
-<a href='https://xlicon-v3-web.onrender.com' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-
-2. Get Creds Json (SERVER 2)
-    <br>
-<a href='https://replit.com/@S4SalmanYt/XLICON-V3-PAIRING' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-
-
-## 🚀 `Deployments`
-#### DEPLOY TO HEROKU 
-
-1. If You don't have a account in Heroku. Create a account.
-    <br>
-<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-
-2. Now Deploy
-    <br>
-<a href='https://xlcon-v3-deloy.vercel.app/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-
-#### DEPLOY TO REPLIT
-
-1. If You don't have an account in Replit. Create a account.
-    <br>
-<a href='https://replit.com/signup' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
-
-
-2. Now Deploy
-    <br>
-    <a href='https://repl.it/github/salmanytofficial/XLICON-V3-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
-
-
-
-#### DEPLOY TO CODESPACE
-
-3. If You don't have a account in Codespace. Create a account.
-    <br>
-<a href='https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fcodespaces' target="_blank"><img alt='Codespaces' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
-
-4. Now Deploy
-    <br>
-<a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
-
-#### DEPLOY TO OKTETO
-
-5. If You don't have a account in Okteto. Create a account.
-    <br>
-<a href='https://www.okteto.com/pricing/?plan=SaaS' target="_blank"><img alt='Okteto' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=opera' width="96.35" height="28"/></a></p>
-
-6. Now Deploy
-    <br>
-<a href='https://cloud.okteto.com/login' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=opera' width="96.35" height="28"/></a></p>
-
-#### DEPLOY TO RAILWAY
-
-7. If You don't have a account in Railway. Create a account.
-    <br>
-<a href='https://railway.app/login' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=railway' width="96.35" height="28"/></a></p>
-
-8. Now Deploy
-    <br>
-<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=railway' width="96.35" height="28"/></a></p>
-
-#### DEPLOY TO MONGENIUS
-
-9. If You don't have a account in Mongenius. Create a account.
-    <br>
-<a href='https://studio.mogenius.com/user/registration' target="_blank"><img alt='Mongenius' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
-
-10. Now Deploy
-    <br>
-<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
-
-#### DEPLOY TO COOLIFY
-
-11. If You don't have a account in Coolify. Create a account.
-    <br>
-<a href='https://app.coolify.io/register' target="_blank"><img alt='Coolify' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=C' width="96.35" height="28"/></a></p>
-
-12. Now Deploy
-    <br>
-<a href='https://coolify.io/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=C' width="96.35" height="28"/></a></p>
-
-#### DEPLOY TO RENDER
-
-13. If You don't have a account in Render. Create a account.
-    <br>
-<a href='https://dashboard.render.com/register' target="_blank"><img alt='Render' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
-
-14. Now Deploy
-    <br>
-<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
-
-## 🎇 `NEW DEPLOYMENT`
-NOW Deploy👇
-<br>
-## DEPLOY IN KOYEB    
-[![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/auth/signup)  
-
-# `TUTORIALS`
-
-***Deploy on Heroku Video ⇓***
- <p align="left">
-<a href="https://youtu.be/gPPf3AzgDq0?si=ExGosf3FfC5PIREH"><img align="center" src="https://telegra.ph/file/de08dc0620a720b81035d.jpg" alt="DEPLOY" height="110" width="200" /></a>
- </p>
- </br>
+ ## [ GODZILLA WHATSAPP CHANNEL ](https://whatsapp.com/channel/0029VaaxfYH2ER6oOMkqFS3W)
  
-***Logs Error Fix Video ⇓***
- <p align="left">
-<a href="https://youtu.be/P9PPuwCqL4c?si=vmlvopHRVEvAcdv5"><img align="center" src="https://i.ibb.co/BwdgN5Q/Blue-Modern-Eye-Catching-Vlog-You-Tube-Thumbnail.png" alt="DEPLOY" height="110" width="200" /></a>
-   
-## `CREDITS` 
-<div><button id="boton" type="button">Baileys - By WhiskeySockets & adiwajshing</button></div>
-<a href="https://github.com/WhiskeySockets/Baileys"><img src="https://github.com/WhiskeySockets.png" width="150" height="150" alt="adiwajshing"/></a>
-<div><button id="boton" type="button">Base  - By CHEEMS BOTZ</button></div>
-<a href="https://github.com/DGXeon"><img src="https://github.com/DGXeon.png" width="150" height="150" alt="Xeon"/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+[![Future Trends](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hey+there+buddy%F0%9F%91%8B!;Meet+Godzilla+MD+WhatsApp+Bot;A+WhatsApp+bot+rich+in+features;Made+for+you,+by+humans+on+earth;Developed+by+Tylor+and+Paschal;Fork+the+repo+and+don't+forget+to+star+it;Success+in+deploying+Godzilla+MD;Thanks+from+ItsFutureTrends+team😊)](https://github.com/ItsFutureTrends)
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## 📛 `OWNER` 
-<a href="https://github.com/salmanytofficial"><img src="https://github.com/salmanytofficial.png" width="250" height="250" alt="Salman Ahmad"/></a>
-  
-**XLICON-V3** - By `salmanytofficial`
-<br>
-`Development , Maintainence , Bot Updates`
-
-## 🏷️ `Main Dev` 
-<a href="https://github.com/V-E-N-O-X"><img src="https://github.com/V-E-N-O-X.png" width="250" height="250" alt="VENOX"/></a>
-  
-**XLICON-V3** - By `Slahser Senpai`
-<br>
-`Development , Features Enhancement , Plugin Debbuging`
-
-## 🏷️ `Contributer` 
-<a href="https://github.com/dragiez"><img src="https://github.com/dragiez.png" width="250" height="250" alt="DRAGIEZ"/></a>
-  
-**XLICON-V3** - By `Dragiez`
-<br>
-`Development , Features Enhancement , Code Testing`
-
--------
-
-## 🌈 `Support Us`
-- **Mail Us:** [salmansheikh2500@gmail.com](mailto:salmansheikh2500@gmail.com)
-- **Join Our Support Group:**
- <p align="center">
-   
-  ## ``Support Group``
-   
-- [`XLICON Community`](https://chat.whatsapp.com/J8U0HyBlokoC14UwmisO0b)
-- [`Official Group`](https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk)
-- [`Support Gc`](https://chat.whatsapp.com/Lda5nx04JZJJsKsibu0KFR)
-
-<a aria-label="Join our chats" href="https://wa.me/923184070915?text=Hi!! SalmanAhmad Sir, I need Your Help" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+  <a href="https://github.com/ItsFutureTrends/Godzilla-MD">
+    <img alt="godzilla docs" height="500" src="https://telegra.ph/file/71c8e0d16cee3425e0ee5.jpg">
+  </a>
 </p>
+    
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+   
+   
+<p align="center">
+  <a href="https://wa.me/+2348152012066?text=Hi+Bro+Please+Help.+I+got+this+from+Godzilla-MD+Repo" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+ 
+  <a aria-label="Godzilla MD is here for you" href="https://github.com/ItsFutureTrends/Godzilla-MD" target="_blank">
+    <img alt="ItsFutureTrends" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  </a>
 
-- [`Support Me On Patreon ☕ `](https://www.patreon.com/ahmmikun/membership)
-
-<p align="left">
-Click On The Link To Donate ME...
 </p>
-
-
-- **Buy Me a Coffee:** `Your support will help me stay motivated and continue working on exciting projects like this one.`
-
-<a href="https://www.buymeacoffee.com/ahmmikun">
-<img src="https://i.ibb.co/KNnhcvX/bmc-button.png" alt="Buy Me Coffee" height="40" width="150" style="margin-left: 60px;">
-</a>
-
-
-## 🔒 `Reminder`
-Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
-
-
-# Install Manually 👇
-## `Requirements`
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
-* [Libwebp](https://developers.google.com/speed/webp/download)
-* Any text editor
-## `Clone Repo & Installation dependencies`
-```bash
-git clone https://github.com/<your gitHub Username>/XLICON-V3-MD.git
-cd XLICON-V3-MD
-
-npm start
-```
-## `For Termux/Ssh/Ubuntu`
-```bash
-apt update
-apt upgrade
-pkg update && pkg upgrade
-pkg install bash
-pkg install libwebp
-pkg install git -y
-pkg install nodejs -y 
-pkg install ffmpeg -y 
-pkg install wget
-pkg install imagemagick -y
-git clone https://github.com/<your gitHub Username>/XLICON-V3-MD
-cd XLICON-V3-MD
-yarn install
-npm start
-```
-## `For VPS`
-```bash
-apt install nodejs 
-apt install git 
-apt apt install ffmpeg 
-apt apt install libwebp 
-apt apt install imagrmagick
-apt install bash
-git clone https://github.com/<your gitHub Username>/XLICON-V3-MD
-cd XLICON-V3-MD
-npm start
-```
-## `For 24/7 Activation (Termux)`
-```bash
-npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
-```
-
-## `Reminder`
-   
-## 
-- This bot is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!`(Though your WhatsApp account can be unbanned only once.)
-- I am not responsible for banning your account.
-- Use at your own risk by keeping this warning in mind.
-
-
-## `NOTICE`
-   
-## 
-- Not For Sale
-- Don't Forget to Give Credits If you are using or Reuploading My Plugins/files
-- Have A Good Day Ahead
-- Don't Use This Script As Your Bot Base 
+<p align="center"><img src="https://profile-counter.glitch.me/{ItsFutureTrends}/count.svg" alt="Godzilla-MD:: Visitor's Count" /></p>
 ---
 
- <br><br>
+
+
+
+<p align="center"> 𝐆𝐨𝐝𝐳𝐢𝐥𝐥𝐚 𝐌𝐃 uses
+  <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
+</p>
+<p align="center">
+  <img title="Whatsapp-Bot-Javascript" src="https://img.shields.io/badge/Javascript-363303?style=for-the-badge&logo=javascript&logoColor=c6c631"></img>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/ItsFutureTrends/Godzilla-MD"><b>Godzilla MD</b></a> Can be deployed on;...
+</p>
+
+<p align="center">
+  <a href="https://github.com/ItsFutureTrends/Godzilla-MD/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://railway.app/template/GZOvIe?referralCode=wVDLrh"><img src="https://img.shields.io/badge/railway-3e164f?style=for-the-badge&logo=railway&logoColor=0B0D0E"></a>
+</p>
+<p align="center">
+  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FItsFutureTrends%2FGodzilla-MD"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+  <a href="https://godzilla-web01.vercel.app/replit.html"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
+  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/ItsFutureTrends/Godzilla-MD-md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=2347066575685,254787371970&env[MONGODB_URI]&&env[OWNER_NAME]=FutureTrends ᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=𝐆𝐎𝐃𝐙𝐈𝐋𝐋𝐀 𝐌𝐃&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=GODZILLA &env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Nairobi&name=ItsFutureTrends &env[KOYEB_NAME]=Godzilla-MD&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/71c8e0d16cee3425e0ee5.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
+</p>
+  <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
+</p>
+<p align="center">Need help? please create an <a href="https://github.com/ItsFutureTrends/Godzilla-MD/issues">issue</a></p>
+
+ 
+
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+## Bot Games
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+---
+1. ***Connect Four Game.***
+2.  ***Tic Tac Toe.***
+3.  ***Number Guessing Game.***
+4.  ***Word chain Game(wcg).***
+5.  ***Hidden Card Game.***
+6.  ***Rolling Dice.***
+7.  ***Character Guessing Game.***
+8.  ***Capital of City Finding.***
+##
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+ 
+
+
+
+<h3>Godzilla MD Stats</h3>
+
+![Godzilla MD Stats](https://github-readme-stats.vercel.app/api/pin/?username=ItsFutureTrends&repo=Godzilla-MD&show_owner=true&theme=dark)
+
+
+    
+   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+## Deployment Methods
+If scan qr method is not working please, try using pairing code as we try to fix the issue.
+---
+1.  ***Get `SESSION ID` by [`SCANING QR`](https://session.bk9.site/BK9qr/) or server 2 qr code
+    <br>
+<a href="https://session.bk9.site/BK9qr"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
+2.  [`PARING CODE`](https://session.bk9.site/BK9pair). 𝙤𝙧 𝙨𝙚𝙧𝙫𝙚𝙧 2 𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚
+    <br>
+<a href="https://session.bk9.site/BK9pair"><img title="𝙋𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 2" src="https://img.shields.io/badge/𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 2-h?color=green&style=for-the-badge&logo=msi"></a>
+`it is currently powerful working`
+Then `Go-to Whatapp>Three dots>Linked Devices`***
+3.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional`***
+4.  ***Click [`FORK`](https://github.com/ItsFutureTrends/Godzilla-MD/fork) and `Star ⭐ Repository` for Courage.***
+5.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
+6.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
+7.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FItsFutureTrends%2FGodzilla-MD)***
+8.  ***Deploy on [`Replit`](https://replit.com/github/ItsFutureTrends/Godzilla-MD)***
+9.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
+10.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/ItsFutureTrends/Godzilla-MD-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=254787371970,2347066575685env[MONGODB_URI]&&env[OWNER_NAME]=FutureTrends&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Godzilla+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=GODZILLA&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Nairobi&name=Venocyber-md&env[KOYEB_NAME]=Godzilla-MD&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/71c8e0d16cee3425e0ee5.jpg)***
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+##
+---
+
+
+
+
+- Star ⭐ this repo if you like Godzilla MD.
+- If any problem, then [`Whatsapp Me Here`](https://wa.me/message/OZTNJWQSS2LAM1)
+
+
+### This is
+- [Future Trends](https://github.com/ItsFutureTrends) 
+
+# please click the following button  and  fill the details to support my project
+
+
+<a href="https://www.buymeacoffee.com/godzilla"><img src="https://img.buymeacoffee.com/button-api/?text=Support this project&emoji=&slug=godzilla &button_colour=5F7FFF&font_colour=ffffff&font_family=Arial&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
+--
+
+
+<h2 align="center">  𝗣𝗢𝗟𝗜𝗧𝗘 𝗡𝗢𝗧𝗜𝗖𝗘!
+</h2>
+   
+## 
+- *Godzilla MD is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *In that case, I'm not responsible for banning your account.*
+- *Use Godzilla MD at your own risk by keeping this warning in mind.*
+- [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/ItsFutureTrends/Godzilla-MD)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+##
+---
+### Credits to:
+`much thanks to`
+- [Suhail Ser](https://github.com/SuhailTechInfo) for the Base Bot
+- [`Astropeda Team`](https://github.com/Astropeda) for new menu design and some cmds
+- [wasixd](https://github.com/Itxxwasi) for watching and rechecks
+- [Gifted tech](https://github.com/mouricedevs) always supporter
+- .[Venocyber Tech](https://github.com/kingjux)
+for supporting us
+---
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+[ʜᴏᴡ ᴛᴏ sᴇᴛᴜᴘ `𝐆𝐨𝐝𝐳𝐢𝐥𝐥𝐚 𝐌𝐃` 𝑓𝑟𝑒𝑒 𝑡𝑢𝑡𝑜𝑟𝑖𝑎𝑙 `𝚌𝚕𝚒𝚌𝚔 𝚑𝚎𝚛𝚎`](https://youtu.be/1wNVPsZ98Mo?si=jZSXgdBRyA00kjKl)
+ 
+  ##
+  
+  * [`𝐝𝐨𝐧'𝐭 𝐞𝐯𝐞𝐧 𝐡𝐚𝐯𝐞 𝐠𝐢𝐭𝐡𝐮𝐛 𝐚𝐜𝐜𝐨𝐮𝐧𝐭` How To setup Github 1st step `𝒄𝒍𝒊𝒄𝒌 𝒉𝒆𝒓𝒆`](https://youtu.be/19v5VCx5fDk?si=l9GzHaJg8Vedj5ld)
+  
+ * Deploy on Heroku Video ⇓
+ <p align="left">
+<a href="https://youtu.be/1wNVPsZ98Mo?si=ftQ2cg82U0cz-mbC"><img align="center" src="https://telegra.ph/file/71c8e0d16cee3425e0ee5.jpg" alt="DEPLOY" height="200" width="200" /></a>
+   
+* don't have heroku account? ᴄʀᴇᴀᴛᴇ ʜᴇʀᴏᴋᴜ ᴀᴄᴄᴏᴜɴᴛ Video ⇓
+ <p align="left">
+<a href="https://youtu.be/ZcvbJNg3tHU?si=zDml6TGO1dAmYAX8"><img align="center" src="https://telegra.ph/file/71c8e0d16cee3425e0ee5.jpg" alt="ᴄʀᴇᴀᴛᴇ" height="200" width="200" /></a>
+   
+* ☆ ᴇxᴛʀᴀ ᴛᴇᴄʜ ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴀɴᴅ ᴇɴᴊᴏʏ ☆ ᴠɪsɪᴛ ʜᴇʀᴇ ⇓
+<p align="left">
+<a href="https://youtu.be/FshoHx1Vk7U?si=bykHPB3juze4hIrg"><img align="center" src="https://telegra.ph/file/71c8e0d16cee3425e0ee5.jpg" alt="DEPLOY" height="200" width="200" /></a>
+   
+[![Future Trends](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Thank+you%F0%9F%91%8B!;For+using+Godzilla+Md;🙏;🙏+😊;🥰)](https://github.com/ItsFutureTrends)
+
+<h1>💗</h1> 
+<b>Thanks For</b> -
+
+ [venocyber 💖](https://wa.me/message/MSSH2UWWOQBDL1) for Voice ,[cecilia](https://youtu.be/1wNVPsZ98Mo?si=jZSXgdBRyA00kjKl) , [he.is.me](http://github.com/Venocybertech) , [Itxxwasi](https://wa.me/message/THZ3I25BYZM2E1) , [𝘎𝘪𝘧𝘵𝘦𝘥 𝘵𝘦𝘤𝘩](https://wa.me/message/NHCZC5DSOEUXB1) and [officialchuimsela](https://wa.me/+260769355624) thanks for helps 💖
+
+ ## [ GODZILLA WHATSAPP CHANNEL ](https://whatsapp.com/channel/0029VaaxfYH2ER6oOMkqFS3W)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+©2024
+𝐆𝐎𝐃𝐙𝐈𝐋𝐋𝐀 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+[![Future Trends](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hey+buddy%F0%9F%91%8B!;just+wishing+you;goodluck+on+deploying+Godzilla+MD;Developed;by+Future+Trends;Tylor+and+Paschal)](https://github.com/ItsFutureTrends)
+
+<p align="center">
+  <a href="https://github.com/ItsFutureTrends/Godzilla-MD">
+    <img alt="godzilla docs" height="300" src="https://telegra.ph/file/71c8e0d16cee3425e0ee5.jpg">
+  </a>
+</p>
+    
+   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>

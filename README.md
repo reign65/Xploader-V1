@@ -55,6 +55,9 @@
 </p>
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2heyit-tylor%2FXploader-V1"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+ /p>
+<p align="center">
+  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2heyit-tylor%2FXploader-V1"><img src="https://img.shields.io/badge/render-9d7acc?style=for-the-badge&logo=render&logoColor=430098"></a>
 </p>
 <p align="center">Need help? please create an <a href="https://github.com/heyit-tylor/Xploader-V1/issues">issue</a></p>
 
@@ -93,8 +96,8 @@
     
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## 🛠️ `INSTALATION`
-1. Fork  and star this repo first
+## 🛠️ `XPLOADER INSTALATION`
+1. Fork and star this repo first
     <br>
     <p align="center">
 <a href='https://github.com/heyit-tylor/Xploader-V1/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred'/></a>

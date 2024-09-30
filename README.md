@@ -93,24 +93,18 @@
     
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## Deployment Methods
-If scan qr method is not working please, try using pairing code as we try to fix the issue.
----
-1.  ***Get `SESSION ID` by [`SCANING QR`](https://session.bk9.site/BK9qr/) or server 2 qr code
+## 🛠️ `INSTALATION`
+1. Fork  and star this repo first
     <br>
-<a href="https://session.bk9.site/BK9qr"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
-2.  [`PARING CODE`](https://session.bk9.site/BK9pair). 𝙤𝙧 𝙨𝙚𝙧𝙫𝙚𝙧 2 𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚
+<a href='https://github.com/heyit-tylor/Xploader-V1/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+2. Session File (SERVER 1)
     <br>
-<a href="https://session.bk9.site/BK9pair"><img title="𝙋𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 2" src="https://img.shields.io/badge/𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 2-h?color=green&style=for-the-badge&logo=msi"></a>
-`it is currently powerful working`
-Then `Go-to Whatapp>Three dots>Linked Devices`***
-3.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fheyit-tylor%2FXploader-V1)***
-4.  ***Deploy on any panel of your choice***
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-##
----
+<a href='https://xlicon-web-pair-code.onrender.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
-
+2. Session File (SERVER 2)
+    <br>
+<a href='https://replit.com/@S4SalmanYt/XLICON-PAIR-CODE' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 - Star ⭐ this repo if you like Xploader Bot.

@@ -48,25 +48,6 @@
   <img title="Whatsapp-Bot-Javascript" src="https://img.shields.io/badge/Javascript-363303?style=for-the-badge&logo=javascript&logoColor=c6c631"></img>
 </p>
 
----
-
-<p align="center">
-  <a href="https://github.com/heyit-tylor/Xploader-V1"><b>Xploader V1</b></a> Can be deployed on;
-</p>
-<p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2heyit-tylor%2FXploader-V1"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
-<p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2heyit-tylor%2FXploader-V1"><img src="https://img.shields.io/badge/render-9d7acc?style=for-the-badge&logo=render&logoColor=430098"></a>
-<p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2heyit-tylor%2FXploader-V1"><img src="https://img.shields.io/badge/replit-9d7acc?style=for-the-badge&logo=replit&logoColor=430098"></a>
-<p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2heyit-tylor%2FXploader-V1"><img src="https://img.shields.io/badge/koyeb-9d7acc?style=for-the-badge&logo=koyeb&logoColor=430098"></a>
-</p>
-<p align="center">Need help? please create an <a href="https://github.com/heyit-tylor/Xploader-V1/issues">issue</a></p>
-
- 
-
-
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -115,7 +96,20 @@
     <p align="center">
 <a href='https://replit.com/@S4SalmanYt/XLICON-PAIR-CODE' target="_blank"><img alt='REQUEST PAIR CODE' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkbrown&color=darkbrown'/></a>
 
-
+## `DEPLOYMENTS`
+<p align="center">
+  <a href="https://github.com/heyit-tylor/Xploader-V1"><b>Xploader V1</b></a> Can be deployed on;
+</p>
+<p align="center">
+  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2heyit-tylor%2FXploader-V1"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+<p align="center">
+  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2heyit-tylor%2FXploader-V1"><img src="https://img.shields.io/badge/render-9d7acc?style=for-the-badge&logo=render&logoColor=430098"></a>
+<p align="center">
+  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2heyit-tylor%2FXploader-V1"><img src="https://img.shields.io/badge/replit-9d7acc?style=for-the-badge&logo=replit&logoColor=430098"></a>
+<p align="center">
+  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2heyit-tylor%2FXploader-V1"><img src="https://img.shields.io/badge/koyeb-9d7acc?style=for-the-badge&logo=koyeb&logoColor=430098"></a>
+</p>
+<p align="center">Need help? please create an <a href="https://github.com/heyit-tylor/Xploader-V1/issues">issue</a></p>
 - Star ⭐ this repo if you like Xploader Bot.
 - If any problem, then [`Whatsapp Me Here`](https://wa.me/message/OZTNJWQSS2LAM1)
 

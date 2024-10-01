@@ -103,7 +103,7 @@
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2heyit-tylor%2FXploader-V1"><img src="https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=000000"></a>
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2heyit-tylor%2FXploader-V1"><img src="https://img.shields.io/badge/render-000000?style=for-the-badge&logo=render&logoColor=430098"></a>
+  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2heyit-tylor%2FXploader-V1"><img src="https://img.shields.io/badge/render-333333?style=for-the-badge&logo=render&logoColor=FFFFFF"></a>
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2heyit-tylor%2FXploader-V1"><img src="https://img.shields.io/badge/replit-000000?style=for-the-badge&logo=replit&logoColor=FFA500"></a>
 <p align="center">

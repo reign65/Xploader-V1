@@ -100,13 +100,15 @@
 
 ## `DEPLOYMENTS`
 ***NB:*** *How to deploy on heroku*
->Upload the creds.json in session folder.
->Create an heroku account.
->Go to create new app or tap the icon below.
->Add buildpacks
->Connect with GitHub
+>*Upload the creds.json in session folder.
+>*Create an heroku account.
+>*Go to create new app or tap the icon below.
+>*Add buildpacks
+>*Connect with GitHub
 >Locate Xploader-V1
->Deploy
+>*Deploy
+>*Start worker
+>*Enjoy 
 
 <p align="center">
   <a href="https://github.com/heyit-tylor/Xploader-V1"><b>Xploader V1</b></a> Can be deployed on;

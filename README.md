@@ -110,6 +110,8 @@
   <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2heyit-tylor%2FXploader-V1"><img src="https://img.shields.io/badge/koyeb-006400?style=for-the-badge&logo=koyeb&logoColor=FFFFFF"></a>
  <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2heyit-tylor%2FXploader-V1"><img src="https://img.shields.io/badge/railway-4B0082?style=for-the-badge&logo=railway&logoColor=FFFFFF"></a>
+  <p align="center">
+  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2heyit-tylor%2FXploader-V1"><img src="https://img.shields.io/badge/solar hosting-000000?style=for-the-badge&logo=solarhosting&logoColor=FFA500"></a>
 </p>
 <p align="center">Need help? please create an <a href="https://github.com/heyit-tylor/Xploader-V1/issues">issue</a></p>
 

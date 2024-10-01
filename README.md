@@ -103,17 +103,12 @@
 >* Upload the creds.json in session folder.
 >* Create an heroku account.
 >* Go to create new app or tap the icon below.
->* Add the buildpacks below.
-```bash
-heroku/nodejs
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
->* Connect with GitHub
->* Locate Xploader-V1
->* Deploy
->* Start worker
->* Enjoy 
+>* Connect with GitHub.
+>* Search Xploader-V1 and connect.
+>* Enable automatic deploys.
+>* Deploy.
+>* Start worker.
+>* Enjoy.
 
 <p align="center">
   <a href="https://github.com/heyit-tylor/Xploader-V1"><b>Xploader V1</b></a> Can be deployed on;

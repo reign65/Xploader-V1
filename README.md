@@ -105,11 +105,11 @@
 <p align="center">
   <a href="https://dashboard.render.com/select-repo?type=web"><img src="https://img.shields.io/badge/render-333333?style=for-the-badge&logo=render&logoColor=FFFFFF"></a>
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2heyit-tylor%2FXploader-V1"><img src="https://img.shields.io/badge/replit-000000?style=for-the-badge&logo=replit&logoColor=FFA500"></a>
+  <a href="https://repl.it/github/heyit-tylor/Xploader-V1"><img src="https://img.shields.io/badge/replit-000000?style=for-the-badge&logo=replit&logoColor=FFA500"></a>
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2heyit-tylor%2FXploader-V1"><img src="https://img.shields.io/badge/koyeb-006400?style=for-the-badge&logo=koyeb&logoColor=FFFFFF"></a>
+  <a href="https://app.koyeb.com/auth/signup"><img src="https://img.shields.io/badge/koyeb-006400?style=for-the-badge&logo=koyeb&logoColor=FFFFFF"></a>
  <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2heyit-tylor%2FXploader-V1"><img src="https://img.shields.io/badge/railway-4B0082?style=for-the-badge&logo=railway&logoColor=FFFFFF"></a>
+  <a href="https://railway.app/new"><img src="https://img.shields.io/badge/railway-4B0082?style=for-the-badge&logo=railway&logoColor=FFFFFF"></a>
   <p align="center">
   <a href="https://account.solarhosting.cc/register?ref=6JR38R0T"><img src="https://img.shields.io/badge/solar hosting-000000?style=for-the-badge&logo=solar hosting&logoColor=FFA500"></a>
  <p align="center">

@@ -117,19 +117,19 @@
 
 
 
-## `Pannel Supoort`
+## `PANEL DEPLOYMENT`
 ```bash
-1. Fork Repository
+1. Fork the  Repository
 2. If already forked then sync fork repository
-3. Then click on code and click download as zip
-4. Then upload script zip file to pannel
-5. Unarchieve zip sile
-6. Open bot folder and move all filea to container by (../)
-7. Now run bot
-8. After 1-2min it show enter number
-9. Enter number it will show pair code
-10. Enter pair code in linked device in whatsapp
-11. Bot Connect done now use bot 
+3. Click on Code and click download as zip
+4. Upload script zip file to panel
+5. Unarchieve the uploaded zip file
+6. Open the unarchieved folder and move all files to container by typing(../)
+7. Now go to console and start bot
+8. Wait for 2-3 mins it enter your number
+9. Enter your number when requested for pair code
+10. Enter pair code in link devices in whatsapp
+11. Deployment successful  
  
 ```
 
@@ -144,8 +144,8 @@
   
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/<your gitHub Username>/XLICON-V4-MD.git
-cd XLICON-V4-MD
+git clone https://github.com/<your gitHub Username>/Xploader-V1.git
+cd Xploader-V1
 npm start
 ```
 
@@ -160,8 +160,8 @@ sudo apt-get install -y nodejs
 sudo apt-get install -y ffmpeg
 sudo apt-get install -y wget
 sudo apt-get install -y imagemagick
-git clone https://github.com/<your-gitHub-Username>/XLICON-V4-MD
-cd XLICON-V4-MD
+git clone https://github.com/<your-gitHub-Username>/Xploader-V1
+cd Xploader-V1
 npm install
 npm start
 ```

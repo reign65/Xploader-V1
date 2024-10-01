@@ -114,6 +114,77 @@
   <a href="https://account.solarhosting.cc/register?ref=6JR38R0T"><img src="https://img.shields.io/badge/solar hosting-000000?style=for-the-badge&logo=solar hosting&logoColor=FFA500"></a>
  <p align="center">
   <a href="https://bot-hosting.net/?aff=1230335382248488971"><img src="https://img.shields.io/badge/bot hosting-000000?style=for-the-badge&logo=bot hosting &logoColor=FFA500"></a>
+
+
+
+## `Pannel Supoort`
+```bash
+1. Fork Repository
+2. If already forked then sync fork repository
+3. Then click on code and click download as zip
+4. Then upload script zip file to pannel
+5. Unarchieve zip sile
+6. Open bot folder and move all filea to container by (../)
+7. Now run bot
+8. After 1-2min it show enter number
+9. Enter number it will show pair code
+10. Enter pair code in linked device in whatsapp
+11. Bot Connect done now use bot 
+ 
+```
+
+
+# Install Manually 👇
+## `Requirements`
+* [Node.js](https://nodejs.org/en/)
+* [Git](https://git-scm.com/downloads)
+* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
+* [Libwebp](https://developers.google.com/speed/webp/download)
+* Any text editor
+  
+## `Clone Repo & Installation dependencies`
+```bash
+git clone https://github.com/<your gitHub Username>/XLICON-V4-MD.git
+cd XLICON-V4-MD
+npm start
+```
+
+## `For Ssh/Ubuntu/Linux`
+```bash
+sudo apt-get update
+sudo apt-get upgrade -y
+sudo apt-get install -y bash
+sudo apt-get install -y libwebp
+sudo apt-get install -y git
+sudo apt-get install -y nodejs
+sudo apt-get install -y ffmpeg
+sudo apt-get install -y wget
+sudo apt-get install -y imagemagick
+git clone https://github.com/<your-gitHub-Username>/XLICON-V4-MD
+cd XLICON-V4-MD
+npm install
+npm start
+```
+
+## `For Termux`
+```bash
+apt update -y && apt upgrade -y && pkg update -y && pkg upgrade -y && pkg install bash -y && pkg install libwebp -y && pkg install git -y && pkg install nodejs -y && pkg install ffmpeg -y && pkg install wget -y && pkg install imagemagick -y && pkg install yarn && termux-setup-storage
+cd /sdcard
+cd bot folder name
+yarn install
+npm start
+```
+
+## `For 24/7 Activation Pm2 (Termux)`
+```bash
+npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
+```
+
+## `For 24/7 Activation Re-Execution Pm2 (Termux)`
+```bash
+npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
+```
+
 </p>
 <p align="center">Need help? please create an <a href="https://github.com/heyit-tylor/Xploader-V1/issues">issue</a></p>
 

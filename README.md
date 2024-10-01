@@ -101,7 +101,7 @@
   <a href="https://github.com/heyit-tylor/Xploader-V1"><b>Xploader V1</b></a> Can be deployed on;
 </p>
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2heyit-tylor%2FXploader-V1"><img src="https://img.shields.io/badge/heroku-000000?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2heyit-tylor%2FXploader-V1"><img src="https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=000000"></a>
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2heyit-tylor%2FXploader-V1"><img src="https://img.shields.io/badge/render-000000?style=for-the-badge&logo=render&logoColor=430098"></a>
 <p align="center">

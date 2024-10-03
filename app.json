@@ -28,8 +28,8 @@
       "value": ""
     },
     "PREFIX": {
-      "description": "Set Your Prefix Here",
-      "required": true,
+      "description": "Set Your Prefix Here, leave blank to use without a prefix",
+      "required": false,
       "value": "."
     },
     "BOT_NAME": {

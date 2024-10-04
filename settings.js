@@ -16,36 +16,36 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 //owmner v card
 //________________________________________________________________________________________________________
-global.ytname = process.env.YT_NAME || "YT: heyits_tylor" //ur yt chanel name
+global.ytname = process.env.YT_NAME || "YT: nain" //ur yt chanel name
 //________________________________________________________________________________________________________
-global.socialm = process.env.MEDIA || "GitHub: heyit-tylor" //ur github or insta name
+global.socialm = process.env.MEDIA || "GitHub: nain" //ur github or insta name
 //________________________________________________________________________________________________________
-global.location = process.env.GL_INFO || "Kenya, Nairobi, Karen" //ur location
+global.location = process.env.GL_INFO || "Kenya" //ur location
 //________________________________________________________________________________________________________
 
 //new
 //________________________________________________________________________________________________________
-global.botname = process.env.BOT_NAME || '𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫' //ur bot name
+global.botname = process.env.BOT_NAME || 'ray' //ur bot name
 //________________________________________________________________________________________________________
-global.ownernumber = process.env.SUDO || '254796180105' //ur owner number
+global.ownernumber = process.env.SUDO || '254742948136' //ur owner number
 //________________________________________________________________________________________________________
-global.ownername = process.env.SUDO_NAME || 'Tylor' //ur owner name
+global.ownername = process.env.SUDO_NAME || 'ray' //ur owner name
 //________________________________________________________________________________________________________
-global.websitex = process.env.YT_LINK || "https://youtube.com/@heyits_tylor"
+global.websitex = process.env.YT_LINK || "https://youtube.com/@heylor"
 //________________________________________________________________________________________________________
-global.wagc = process.env.GL_PUSH || "https://www.instagram.com/heyits_tylor?igsh=YzljYTk1ODg3Zg=="
+global.wagc = process.env.GL_PUSH || "https://www.instagram.com/heyits_tylor?igshYTk1ODg3Zg=="
 //________________________________________________________________________________________________________
 global.themeemoji = process.env.GL_EMOJI || '🏮'
 //________________________________________________________________________________________________________
-global.wm = process.env.GL_WM || "©𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫-Iɴᴄ"
+global.wm = process.env.GL_WM || "ray"
 //________________________________________________________________________________________________________
-global.botscript = process.env.GL_SC || 'wa.me/254796180105' //script link
+global.botscript = process.env.GL_SC || 'https://wa.me/254742948136' //script link
 //________________________________________________________________________________________________________
-global.packname = process.env.PACK_NAME || "Ty"
+global.packname = process.env.PACK_NAME || "ray"
 //________________________________________________________________________________________________________
-global.author = process.env.AUTHER_NAME || "lor"
+global.author = process.env.AUTHER_NAME || "ray"
 //________________________________________________________________________________________________________
-global.creator = process.env.GL_DEVS || "254796180105@s.whatsapp.net"
+global.creator = process.env.GL_DEVS || "254742948136@s.whatsapp.net"
 //________________________________________________________________________________________________________
 global.xprefix = process.env.PREFIX || '.'  //Leave blank if you want to use without a prefix 
 //________________________________________________________________________________________________________
@@ -68,13 +68,13 @@ global.welcome = process.env.WELCOME_MSG || false //welcome/left in groups
 //________________________________________________________________________________________________________
 global.anticall = process.env.GL_NOCALL || false //bot blocks user when called
 //________________________________________________________________________________________________________
-global.autoswview = process.env.AUTO_STATUS_SEEN || false //auto status/story view
+global.autoswview = process.env.AUTO_STATUS_SEEN || true //auto status/story view
 //________________________________________________________________________________________________________
 global.adminevent = process.env.ANNOUNCE_MSG  || false //show promote/demote message
 //________________________________________________________________________________________________________
 global.groupevent = process.env.GROUP_ANNOUNCE_MSG || false //show update messages in group chat
 //________________________________________________________________________________________________________
-global.antidelete = false //set anti delete
+global.antidelete = true //set anti delete
 //________________________________________________________________________________________________________
 
 //msg
